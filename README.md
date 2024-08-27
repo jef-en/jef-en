@@ -28,7 +28,7 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 
  ## 📬 Get in Touch
 
-[![My Skills](https://skillicons.dev/icons?i=linked)](https://www.linkedin.com/in/jefen/)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linked)](https://skillicons.dev)
 
 Thanks for stopping by! Excited to connect and explore how our paths might intersect—let’s make something great happen! 🚀
 
