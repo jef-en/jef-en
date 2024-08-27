@@ -1,35 +1,30 @@
-# Hi, I'm JEFEN DE VILLA! 👋
+# Hi, I'm JEFEN De Villa! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a motivated and skilled professional with a knack for thinking outside the box and creating unique, visually appealing concepts. My strong foundation in various aspects of the creative field, coupled with a passion for blending artistic vision with technical expertise, sets me apart.
 
 ![jef-en's Stats](https://github-readme-stats.vercel.app/api?username=jef-en&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+- 🔭 I'm currently a graduate of Bachelor of Science in Information Technology in Ateneo de Naga University
+- 👯 I spend my free time gaming, reading, and unleashing my artistic side with drawing and painting. My body keeps hinting at more physical activity, but I’m content in my creative zone!
+- 📫 How to reach me: 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,figma,xd)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Learning Front End Web Development
+  - Mastering the basics of HTML, CSS and JavaScript.
+  - Exploring React to build dynamic and interactive user interfaces.
+  - Learning React Hooks to manage state and side effects efficiently.
+  - Working on projects to apply and refine my skills.
+  - Staying updated with the latest web development trends and tools.
 
- ## 🏆 Achievements
+ ## 🏆 Achievements and Certificates
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Responsive Web Design - March 05, 2024 (https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
 
 
 ## 📬 Get in Touch
