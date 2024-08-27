@@ -26,13 +26,7 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 - 🌟 Responsive Web Design - March 05, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
 - 🌟 JavaScript Algorithms and Data Structures - July 19, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8)
 
-
-## 📬 Get in Touch
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Excited to connect and explore how our paths might intersect—let’s make something great happen! 🚀
 
 <!--
 
