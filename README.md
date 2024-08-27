@@ -7,10 +7,10 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 ## 🚀 About Me
 
 - 🔭 I'm currently a graduate of Bachelor of Science in Information Technology in Ateneo de Naga University
-- 👯 I spend my free time gaming, reading, and unleashing my artistic side with drawing and painting. My body keeps hinting at more physical activity, but I’m content in my creative zone!
+- 👯 I spend my free time unleashing my artistic side with drawing and painting. My body keeps hinting at more physical activity, but I’m content in my creative zone!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,py,cs,cpp,unity,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,cs,cpp,unity,xd,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -23,8 +23,8 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 
  ## 🏆 Achievements and Certificates
 
-- 🌟 Responsive Web Design - March 05, 2024 [certification](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
-- 🌟 JavaScript Algorithms and Data Structures - July 19, 2024 [certification](https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8)
+- 🌟 Responsive Web Design - March 05, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
+- 🌟 JavaScript Algorithms and Data Structures - July 19, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8)
 
 
 ## 📬 Get in Touch
