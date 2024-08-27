@@ -26,9 +26,6 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 - 🌟 Responsive Web Design - March 05, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
 - 🌟 JavaScript Algorithms and Data Structures - July 19, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8)
 
- ## 📬 Get in Touch
-
-[![My Skills](https://skillicons.dev/icons?i=linked)](https://skillicons.dev)
 
 Thanks for stopping by! Excited to connect and explore how our paths might intersect—let’s make something great happen! 🚀
 
