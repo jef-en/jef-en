@@ -1,4 +1,4 @@
-# Hi, I'm JEFEN De Villa! 👋
+# Hi, I'm Jefen De Villa! 👋
 
 I am a motivated and skilled professional with a knack for thinking outside the box and creating unique, visually appealing concepts. My strong foundation in various aspects of the creative field, coupled with a passion for blending artistic vision with technical expertise, sets me apart.
 
