@@ -1,3 +1,9 @@
+# Hi, I'm Jefen De Villa! 👋
+
+I am a motivated and skilled professional with a knack for thinking outside the box and creating unique, visually appealing concepts. My strong foundation in various aspects of the creative field, coupled with a passion for blending artistic vision with technical expertise, sets me apart.
+
+![jef-en's Stats](https://github-readme-stats.vercel.app/api?username=jef-en&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🚀 About Me
 
 - 🔭 I'm currently a graduate of Bachelor of Science in Information Technology in Ateneo de Naga University
