@@ -10,7 +10,7 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 - 👯 I spend my free time unleashing my artistic side with drawing and painting. My body keeps hinting at more physical activity, but I’m content in my creative zone!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,cpp,py,dart,flutter,androidstudio,unity,xd,figma,vite,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,cs,cpp,py,dart,flutter,androidstudio,unity,xd,figma,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
