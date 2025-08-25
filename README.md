@@ -23,8 +23,11 @@ I am a motivated and skilled professional with a knack for thinking outside the 
 
  ## 🏆 Achievements and Certificates
 
-- 🌟 Responsive Web Design - March 05, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
+- 🌟 Google UX Design - March 13, 2025 [Certification Link]([https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8](https://www.coursera.org/account/accomplishments/specialization/ZS4YTJ7RCXGY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))
+- 🌟 Digital Skills: User Experience - January 22, 2025 [Certification Link](https://www.futurelearn.com/certificates/a7hq6lv)
 - 🌟 JavaScript Algorithms and Data Structures - July 19, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/javascript-algorithms-and-data-structures-v8)
+- 🌟 Responsive Web Design - March 05, 2024 [Certification Link](https://www.freecodecamp.org/certification/Jef-en/responsive-web-design)
+
 
 
 Thanks for stopping by! Excited to connect and explore how our paths might intersect—let’s make something great happen! 🚀
